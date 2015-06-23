@@ -1,4 +1,4 @@
-# fish function for go build
+# fish shell function for go build
 
 编译工具的fish脚本。
 
